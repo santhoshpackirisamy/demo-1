@@ -1,14 +1,72 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "userId": 6,
+    "id": 108,
+    "title": "a eos eaque nihil et exercitationem incidunt delectus",
+    "completed": true,
+    "customer":1
+  },
+  {
+    "userId": 1,
+    "id": 15,
+    "title": "ab voluptatum amet voluptas",
+    "completed": true,
+    "customer":2
+  },
+  {
+    "userId": 8,
+    "id": 151,
+    "title": "accusamus adipisci dicta qui quo ea explicabo sed vero",
+    "completed": true,
+    "customer":3
+  },
+  {
+    "userId": 1,
+    "id": 16,
+    "title": "accusamus eos facilis sint et aut voluptatem",
+    "completed": true,
+    "customer":4
+  },
+  {
+    "userId": 10,
+    "id": 190,
+    "title": "accusamus sint iusto et voluptatem exercitationem",
+    "completed": true,
+    "customer":5
+  },
+  {
+    "userId": 6,
+    "id": 106,
+    "title": "ad illo quis voluptatem temporibus",
+    "completed": true,
+    "customer":6
+  },
+  {
+    "userId": 2,
+    "id": 24,
+    "title": "adipisci non ad dicta qui amet quaerat doloribus ea",
+    "completed": false,
+    "customer":7
+  },
+  {
+    "userId": 2,
+    "id": 26,
+    "title": "aliquam aut quasi",
+    "completed": true,
+    "customer":8
+  },
+  {
+    "userId": 3,
+    "id": 41,
+    "title": "aliquid amet impedit consequatur aspernatur placeat eaque fugiat suscipit",
+    "completed": false,
+    "customer":9
+  },
+  {
+    "userId": 8,
+    "id": 149,
+    "title": "animi voluptas quod perferendis est",
+    "completed": false,
+    "customer":10
   }
-}
+]
